@@ -36,3 +36,60 @@
     transform: rotate(360deg);
   }
 }
+
+.candy-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.candy-item {
+  margin: 20px;
+  border: solid purple;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.flower-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.flower-item {
+  margin: 20px;
+  border: solid purple;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sister-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.sister-item {
+  margin: 20px;
+  border: solid thick pink;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bigthree-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.bigthree-item {
+  margin: 20px;
+  border: solid thick pink;
+  padding: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+  width: 100px;
+}
